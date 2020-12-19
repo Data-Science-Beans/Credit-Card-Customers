@@ -132,3 +132,7 @@ dmypy.json
 data/
 
 ~*
+
+input/
+
+*/catboost_info
